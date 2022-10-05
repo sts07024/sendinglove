@@ -1,0 +1,66 @@
+a{
+  text-decoration: none;
+  color: grey;
+}
+a:hover{
+  color: #E3B7A0;
+}
+.-img{
+  border-image-slice: 20% 0 20% 0;
+  border-radius: 50%;
+  width: 200px;
+  float:left;
+  margin: 20px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Gowun Batang', serif;
+  background-color: #FFEACA;
+}
+.btn {
+  background: #EDCDBB;
+  background-image: -webkit-linear-gradient(top, #EDCDBB, #E3B7A0);
+  background-image: -moz-linear-gradient(top, #EDCDBB, #E3B7A0);
+  background-image: -ms-linear-gradient(top, #EDCDBB, #E3B7A0);
+  background-image: -o-linear-gradient(top, #EDCDBB, #E3B7A0);
+  background-image: linear-gradient(to bottom, #EDCDBB, #E3B7A0);
+  -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FFEACA;
+  text-decoration: none;
+}
+.contact-us{
+  padding: 50px 0 50px 0;
+}
+.lotsoftext{
+  text-align: center;
+  margin: auto;
+  width:300px;
+}
+.heart{
+  float:right;
+}
+h1{
+  font-size: 2rem;
+}
+h2{
+  font-size: 1.5rem;
+  color:#251B37;
+}
+.title-box{
+  margin: 0;
+  background-color: #FFCACA;
+  text-align: center;
+  padding:50px;
+  color: #372948;
+}
